@@ -2,7 +2,7 @@
 
 ## Description
 
-This week were given starter code and had to turn that code into a proper work day planner using jquery
+This week we were given starter code and had to turn that code into a proper work day planner using jquery
 
 ## Link To Deployed Site
 
